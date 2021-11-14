@@ -25,3 +25,5 @@ test_order.py
 
 
 .idea
+.vscode/
+.history/
